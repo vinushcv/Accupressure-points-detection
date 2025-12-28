@@ -1,7 +1,7 @@
 # 🧠 Acupressure Point Detector
 
 A real-time AI application that detects acupressure points on the human hand using **MediaPipe**, **TensorFlow**, and **OpenCV**.  
-The system predicts 3 therapeutic acupressure points (LI-4, PC-8, HT-7) and overlays glowing neon markers inside the detected hand boundary.
+The system predicts 3 therapeutic acupressure points (LI-4, HT-8, HT-7) and overlays glowing neon markers inside the detected hand boundary.
 
 This project includes:
 - ✔️ A deep learning **regression model** trained on synthetic hand landmark data  
